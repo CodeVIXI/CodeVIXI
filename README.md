@@ -60,9 +60,13 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=html,css,javascript,java,julia,python&theme=dark) 
+![Skills](https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,julia,python&theme=dark) [CSS Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/css3-svgrepo-com-white.svg) ![HTML Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/html5-svgrepo-com-white.svg) 
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=linux,python,bash&theme=dark)
+[CSS Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/css3-svgrepo-com-white.svg)
+
+![Java Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/java-svgrepo-com-white.svg)
+![Skills](https://simpleskill.icons.workers.dev/svg?i=linux,python,bash&theme=dark) ![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
+
 ![Skills](https://skillicons.dev/icons?i=linux,python,bash&theme=dark)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
 
@@ -73,5 +77,3 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg" width="50" />
 
-
- 
