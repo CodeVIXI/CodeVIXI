@@ -52,6 +52,26 @@
       "Democratizing disruptive learning in cybersecurity and quantum computing"
 
 ```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header" width="100%"/>
 
-## `> ls habilidades/`
+## `> ls skills/`
+```bash
+└─ Languages
+```
+<div align="center">
 
+![Skills](https://simpleskill.icons.workers.dev/svg?i=html,css,javascript,java,julia,python&theme=dark) 
+
+![Skills](https://simpleskill.icons.workers.dev/svg?i=linux,python,bash&theme=dark)
+![Skills](https://skillicons.dev/icons?i=linux,python,bash&theme=dark)
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="50" />
+<img src="https://cdn.simpleicons.org/gnuemacs" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="50" />
+<img src="https://cdn.simpleicons.org/gnuemacs/ffffff" width="50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg" width="50" />
+
+
+ 
