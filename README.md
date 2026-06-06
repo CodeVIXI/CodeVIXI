@@ -76,7 +76,7 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/anaconda-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/obsidian-white.svg"/> <img src="assets/CBOMkit-logo.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/anaconda-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/obsidian-white.svg"/> <img src="assets/notion-logo.svg"/> <img src="assets/CBOMkit-logo.svg"/>
 </div>
 
 
