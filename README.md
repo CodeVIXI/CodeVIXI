@@ -60,15 +60,34 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) [CSS Logo](https://raw.githubusercontent.com/CodeVIXI/assets/main/css3-svgrepo-com-white.svg) ![HTML Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/html5-svgrepo-com-white.svg) 
+![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/>
 
-[CSS Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/css3-svgrepo-com-white.svg)
 
-![Java Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/java-svgrepo-com-white.svg)
+
+
 ![Skills](https://simpleskill.icons.workers.dev/svg?i=linux,python,bash&theme=dark) ![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
 
 ![Skills](https://skillicons.dev/icons?i=linux,python,bash&theme=dark)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="50" />
 <img src="https://cdn.simpleicons.org/gnuemacs" width="50" />
