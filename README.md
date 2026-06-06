@@ -64,11 +64,19 @@
 </div>
 
 ```bash
+└─ Frameworks & Libraries
+```
+<div align="center">
+
+<img src="assets/visual-studio-white.svg"/> 
+</div>
+
+```bash
 └─ Tools
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/>
 </div>
 
 
@@ -79,7 +87,6 @@
 
 ![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
 
-![Skills](https://skillicons.dev/icons?i=linux,python,bash&theme=dark)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
 
 
