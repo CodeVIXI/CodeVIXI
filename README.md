@@ -33,8 +33,8 @@
 └─$ cat about_me.txt
 
       I am a third-semester student of Scientific Computing at the National University of
-      San Marcos (UNMSM), with an interest in cybersecurity, programming, and quantum
-      computing.
+      San Marcos (UNMSM), with an interest in cybersecurity, artificial intelligence,
+      programming, and quantum computing.
 
       My learning and research focus is on quantum cybersecurity, with an emphasis on
       post-quantum cryptography (PQC), quantum cryptography, and quantum key
@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/>
+<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/>
 </div>
 
 ```bash
@@ -76,7 +76,7 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/CBOMkit-logo.svg"/>
 </div>
 
 
