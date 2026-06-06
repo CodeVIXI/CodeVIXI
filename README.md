@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/>
+<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/>
 </div>
 
 ```bash
@@ -76,42 +76,11 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/CBOMkit-logo.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/anaconda-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/obsidian-white.svg"/> <img src="assets/CBOMkit-logo.svg"/>
 </div>
 
 
 
 
 
-
-
-![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
-
-![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="50" />
-<img src="https://cdn.simpleicons.org/gnuemacs" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="50" />
-<img src="https://cdn.simpleicons.org/gnuemacs/ffffff" width="50" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg" width="50" />
 
