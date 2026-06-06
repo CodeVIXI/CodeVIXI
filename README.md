@@ -60,12 +60,24 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/>
+![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/>
+</div>
+
+```bash
+└─ Tools
+```
+<div align="center">
+
+
+</div>
 
 
 
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=linux,python,bash&theme=dark) ![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
+
+
+
+![Clojure Logo](https://raw.githubusercontent.com/CodeVIXI/SVGs-for-real/main/clojure-svgrepo-com-white.svg) 
 
 ![Skills](https://skillicons.dev/icons?i=linux,python,bash&theme=dark)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-121011?logo=commonlisp)
