@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/>
 </div>
 
 
