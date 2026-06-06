@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-
+<img src="assets/visual-studio-white.svg"/>
 </div>
 
 
