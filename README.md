@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/Qiskit-Logo_White.svg"/>
+ <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/Qiskit-Logo_White.svg"/> 
 </div>
 
 ```bash
