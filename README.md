@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/>
+<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/> <img src="assets/Numpy-white.svg"/> <img src="assets/Matplotlib-white.svg"/>
 </div>
 
 ```bash
