@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> 
+<img src="assets/QuTip-logo.svg"/>  <img src="assets/Cirq-logo.svg"/>
 </div>
 
 ```bash
