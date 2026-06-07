@@ -94,7 +94,7 @@
 └─ For Quantum
 ```
 &nbsp;
-<a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=1"><img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"></a> <a href="https://credsverse.com/credentials/fa1ba927-03d3-4d8f-8205-700735fc4f7b?preview=1"><img src="assets/quantum-resilient-blockchain-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"></a>
+<a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=1"><img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"></a> <a href="https://credsverse.com/credentials/fa1ba927-03d3-4d8f-8205-700735fc4f7b?preview=1"><img src="assets/quantum-resilient-blockchain-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"></a> <a href="https://media.licdn.com/dms/image/v2/D4E2DAQGfTaNcKEQktg/profile-treasury-document-images_1920/B4EZ4IoleAHcAs-/1/1778261319591?e=1781740800&v=beta&t=Ip2uZPFnxGJLvduKZNIrKVS-T0_EeHrdgavHBLHN4XM"><img src="assets/QWorld - QCobalt.png" height="115" alt="QWorld - Renzo Leonardo Cienfuegos Cardenas"></a>
 
 ```bash
 └─ For Cybersecurity
