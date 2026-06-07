@@ -60,15 +60,16 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,julia&theme=dark) <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/database-white.svg"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80"/> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> ![Skills](https://simpleskill.icons.workers.dev/svg?i=julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/database-white.svg"/>
 </div>
+
 
 ```bash
 └─ Frameworks & Libraries
 ```
 <div align="center">
 
-<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/> <img src="assets/Numpy-white.svg"/> <img src="assets/Matplotlib-white.svg"/> <img src="assets/pandas-white.svg"/> 
+<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/> <img src="assets/Numpy-white.svg"/> <img src="assets/Matplotlib-white.svg"/> <img src="assets/pandas-white.svg"/>
 </div>
 
 ```bash
@@ -94,8 +95,10 @@
 ```
 &nbsp;
 <a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=1"> <img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
+
 &nbsp;
 <a href="https://credsverse.com/credentials/fa1ba927-03d3-4d8f-8205-700735fc4f7b?preview=1"> <img src="assets/quantum-resilient-blockchain-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
+
 ```bash
 └─ For Cybersecurity
 ```
