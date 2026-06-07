@@ -93,11 +93,9 @@
 └─ For Quantum
 ```
 &nbsp;
-<a href="https://www.credly.com/badges/d00b9fcc-39b0-4dea-b027-303a22904dac"><img src="https://images.credly.com/size/680x680/images/68fdcd60-3f31-4a24-b87a-90110ab11ee9/blob" height=115 alt="AWS Cloud Club Core Team - Javier Esmith Blanco Chuquizuta"></a>
-&nbsp;
-<a href="https://builder.aws.com/community/@javierblancoch"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" height=115 alt="AWS Community Builder Serverless - Javier Esmith Blanco Chuquizuta"></a>
-&nbsp;
 <a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=1"> <img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
+&nbsp;
+<a href="https://credsverse.com/credentials/fa1ba927-03d3-4d8f-8205-700735fc4f7b?preview=1"> <img src="assets/quantum-resilient-blockchain-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
 ```bash
 └─ For Cybersecurity
 ```
