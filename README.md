@@ -60,7 +60,7 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/> <img src="assets/database-white.svg"/>
+![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,cplusplus,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/> <img src="assets/database-white.svg"/>
 </div>
 
 ```bash
