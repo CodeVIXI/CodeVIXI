@@ -97,7 +97,7 @@
 &nbsp;
 <a href="https://builder.aws.com/community/@javierblancoch"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" height=115 alt="AWS Community Builder Serverless - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
-<a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=2"> <img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
+<a href="https://credsverse.com/credentials/21621192-f451-491d-8bde-b8923d1604c8?preview=1"> <img src="assets/introduction-to-quantum-cyber-security.png" height="115" alt="Quantum Security and Defence Ltd - Renzo Leonardo Cienfuegos Cardenas"> </a>
 ```bash
 └─ For Cybersecurity
 ```
