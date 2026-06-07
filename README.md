@@ -60,7 +60,7 @@
 ```
 <div align="center">
 
-![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/>
+![Skills](https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript,julia&theme=dark) <img src="assets/html5-svgrepo-com-white.svg"/> <img src="assets/css3-svgrepo-com-white.svg"/> <img src="assets/powershell-svgrepo-com-white.svg"/> <img src="assets/terminal-bash-svgrepo-com-white.svg"/> <img src="assets/java-svgrepo-com-white.svg"/> <img src="assets/database-white.svg"/>
 </div>
 
 ```bash
@@ -68,7 +68,7 @@
 ```
 <div align="center">
 
-<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/> <img src="assets/Numpy-white.svg"/> <img src="assets/Matplotlib-white.svg"/>
+<img src="assets/Qiskit-Logo_White.svg"/> <img src="assets/QuTip-logo.svg"/> <img src="assets/Cirq-logo.svg"/> <img src="assets/PennyLane-logo.svg"/> <img src="assets/D-wave-logo.svg"/> <img src="assets/QuNetSim-logo.svg"/> <img src="assets/scikitlearn-white.svg"/> <img src="assets/Numpy-white.svg"/> <img src="assets/Matplotlib-white.svg"/> <img src="assets/pandas-white.svg"/> 
 </div>
 
 ```bash
@@ -76,7 +76,7 @@
 ```
 <div align="center">
 
-<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/anaconda-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/obsidian-white.svg"/> <img src="assets/notion-logo.svg"/> <img src="assets/CBOMkit-logo.svg"/>
+<img src="assets/visual-studio-white.svg"/> <img src="assets/git-white.svg"/> <img src="assets/github-white.svg"/> <img src="assets/anaconda-white.svg"/> <img src="assets/vercel-white.svg"/> <img src="assets/netlify-white.svg"/> <img src="assets/jupyter-white.svg"/> <img src="assets/heroku-white.svg"/> <img src="assets/obsidian-white.svg"/> <img src="assets/notion-logo.svg"/> <img src="assets/CBOMkit-logo.svg"/> <img src="assets/notebooklm-white.svg"/> <img src="assets/slack-white.svg"/>
 </div>
 
 
